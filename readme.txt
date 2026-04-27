@@ -1,1 +1,1 @@
-Temel NLP modellerinden. TF-IDF kullanımı
+TF-IDF kullanımı
