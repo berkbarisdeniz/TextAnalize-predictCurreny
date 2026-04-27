@@ -1,1 +1,1 @@
-ufak tefek şeyleri değiştirdim.
+Temel NLP modellerinden. TF-IDF kullanımı
